@@ -16,86 +16,36 @@ Back-end Developer • Software Engineering • AI & Automation
 
 </div>
 
-<br>
+┌──────────────────────────────────────────────────────────────┐
+│ Gabriel Rocha                                                │
+│ Back-end Developer focused on APIs, systems, AI and code.   │
+│ Building practical solutions and improving through projects. │
+└──────────────────────────────────────────────────────────────┘
 
 const gabriel = {
-  name: "Gabriel Rocha",
-
   role: "Back-end Developer",
-
   education: "Software Engineering",
-
-  focus: [
-    "Back-end Development",
-    "REST APIs",
-    "Automation",
-    "Artificial Intelligence",
-    "Software Systems"
-  ],
-
-  technologies: {
-    backend: [
-      "JavaScript",
-      "Node.js",
-      "Express"
-    ],
-
-    frontend: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React",
-      "Bootstrap"
-    ],
-
-    database: [
-      "Firebase",
-      "Firestore"
-    ]
-  },
-
-  currentlyLearning: [
-    "Back-end Architecture",
-    "Databases",
-    "Authentication",
-    "API Design",
-    "Deploy",
-    "Scalability"
-  ],
-
-  philosophy: "Build. Test. Improve. Repeat."
+  focus: ["APIs", "Systems", "Automation", "Artificial Intelligence"],
+  mainStack: ["JavaScript", "Node.js", "Express", "Firebase"],
+  currentGoal: "Build better software with every project"
 };
 
-<br>
-
-<img src="https://cdn.simpleicons.org/codeforces/58A6FF" width="22" /> About
-
-Desenvolvedor com foco em back-end e construção de sistemas, buscando transformar problemas reais em soluções funcionais.
-
-Tenho interesse principalmente em JavaScript, Node.js, APIs, automações e inteligência artificial, utilizando projetos práticos como parte do meu processo de evolução.
-
-Meu objetivo é desenvolver aplicações cada vez mais completas, melhorando arquitetura, organização de código, integrações e qualidade de software.
-
-<br>
-
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22" /> Technologies
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18" /> Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,html,css,firebase,git,github,vscode,figma&theme=dark&perline=11" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Firestore-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,html,css,firebase,git,github,vscode&theme=dark&perline=10" />
 </div>
 
 <br>
 
-<img src="https://cdn.simpleicons.org/github/58A6FF" width="22" /> Selected Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Firestore-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
+</div>
+
+<img src="https://cdn.simpleicons.org/github/58A6FF" width="18" /> Featured Projects
 
 <table>
 <tr>
@@ -103,30 +53,18 @@ Meu objetivo é desenvolver aplicações cada vez mais completas, melhorando arq
 
 Assistente IFF
 
-AI applied to hospital support
+AI assistant created to support hospital routines, guidance and system usage.
 
-Assistente desenvolvido para auxiliar usuários em processos, rotinas e navegação dentro de sistemas hospitalares.
-
-<br>
-
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>
-<img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=googlegemini&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+Stack: Node.js • Firebase • AI
 
 </td>
 <td width="50%" valign="top">
 
 Aurora IA
 
-Personal AI assistant
+Personal AI assistant with authentication, chat interface and conversation history.
 
-Aplicação com autenticação, histórico de conversas, interface de chat e integração com modelos de inteligência artificial.
-
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+Stack: JavaScript • Express • Firebase
 
 </td>
 </tr>
@@ -136,109 +74,44 @@ Aplicação com autenticação, histórico de conversas, interface de chat e int
 
 GR Study
 
-Smart study platform
+Study platform with questions, ranking, rooms, gamification and AI-based features.
 
-Plataforma com banco de questões, salas, ranking, gamificação, histórico de desempenho e recursos baseados em IA.
-
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=googlegemini&logoColor=58A6FF"/>
+Stack: JavaScript • Firebase • AI
 
 </td>
 <td width="50%" valign="top">
 
 GR Estoque
 
-Inventory management system
+Inventory and internal management system with users, permissions and stock flow.
 
-Sistema para controle de estoque, movimentações, usuários, unidades, permissões e histórico operacional.
-
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Firestore-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/System-0D1117?style=flat-square&logo=databricks&logoColor=58A6FF"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-Nexura
-
-Digital solutions and custom systems
-
-Projeto voltado à criação de sistemas, dashboards, automações, landing pages e soluções digitais.
-
-<br>
-
-<img src="https://img.shields.io/badge/Web-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Automation-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71"/>
-<img src="https://img.shields.io/badge/UI%2FUX-0D1117?style=flat-square&logo=figma&logoColor=F24E1E"/>
-
-</td>
-<td width="50%" valign="top">
-
-Atlas Totem
-
-Digital media and OOH technology
-
-Projeto voltado para totens digitais, distribuição de mídia, publicidade e presença de marcas em diferentes pontos.
-
-<br>
-
-<img src="https://img.shields.io/badge/Digital_Media-0D1117?style=flat-square&logo=googleads&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/Technology-0D1117?style=flat-square&logo=proton&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Business-0D1117?style=flat-square&logo=googleanalytics&logoColor=E37400"/>
+Stack: JavaScript • Firestore • Systems
 
 </td>
 </tr>
 </table>
 
-<br>
+<sub>Also involved in projects like Nexura and Atlas Totem, focused on digital solutions, media and systems.</sub>
 
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="22" /> Current Focus
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="18" /> Current Focus
 
 class Developer {
   constructor() {
-    this.stack = ["JavaScript", "Node.js", "Express"];
-    this.focus = "Back-end Development";
-  }
-
-  learn() {
-    return [
-      "Software Architecture",
-      "REST API Design",
-      "Databases",
+    this.learning = [
+      "Back-end Architecture",
       "Authentication",
+      "Database Design",
       "Deploy",
       "Scalability"
     ];
   }
 
   build() {
-    return [
-      "Systems",
-      "Automations",
-      "AI Integrations",
-      "Real-world Solutions"
-    ];
+    return ["APIs", "Systems", "Automations", "AI Integrations"];
   }
 }
 
-const me = new Developer();
-
-while (true) {
-  me.learn();
-  me.build();
-}
-
-<br>
-
-<img src="https://cdn.simpleicons.org/github/58A6FF" width="22" /> GitHub Analytics
+<img src="https://cdn.simpleicons.org/github/58A6FF" width="18" /> GitHub Analytics
 
 <div align="center">
 
@@ -252,22 +125,10 @@ while (true) {
 
 </div>
 
-<br>
-
 <div align="center">
 
-IDEA
-  ↓
-CODE
-  ↓
-SYSTEM
-  ↓
-IMPROVEMENT
+BUILD • TEST • IMPROVE • REPEAT
 
-<sub>Building real projects while continuously improving as a developer.</sub>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=euggabriell&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+<sub>Focused on creating real solutions and evolving one project at a time.</sub>
 
 </div>
