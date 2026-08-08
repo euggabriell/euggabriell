@@ -1,85 +1,74 @@
-<!-- ========================= HEADER ========================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:0F172A,100:2563EB&text=Gabriel%20Rocha&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Back-end%20Development%20%E2%80%A2%20AI%20%E2%80%A2%20Systems&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img src="./assets/profile-banner.svg" width="100%" alt="Gabriel Rocha — Back-end, AI and Software"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+useful+software.;JavaScript+%7C+Node.js+%7C+APIs;AI+applied+to+real+problems.;From+idea+to+working+product." alt="Typing SVG" />
+<br>
 
-<br/>
-
-<a href="https://github.com/euggabriell">
-  <img src="https://img.shields.io/badge/GitHub-euggabriell-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://gabrielrocha.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-gabrielrocha.netlify.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/_euggabriell/">
-  <img src="https://img.shields.io/badge/Instagram-@_euggabriell-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<a href="https://github.com/euggabriell"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white"/></a><a href="https://gabrielrocha.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a><a href="https://www.instagram.com/_euggabriell/"><img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
-<!-- ========================= ABOUT ========================= -->
+👋 Sobre mim
 
-About me
+Desenvolvedor focado em back-end, automações, inteligência artificial e sistemas web.
 
-Sou desenvolvedor com foco em back-end, automações, inteligência artificial e construção de sistemas reais.
+Gosto de pegar problemas reais e transformar em produtos funcionais — desde APIs e plataformas internas até soluções com IA e dashboards.
 
-Atualmente estudo e desenvolvo projetos usando principalmente JavaScript, Node.js, Express e Firebase, buscando transformar necessidades reais em soluções simples, úteis e escaláveis.
+Atualmente aprofundando meus conhecimentos em JavaScript, Node.js, Express, arquitetura de back-end, bancos de dados e integrações.
 
-📍 Salvador, Bahia
-🎓 Engenharia de Software
-⚙️ Foco atual: Back-end com JavaScript
-🧠 Interesse: IA, automação, APIs, sistemas e dados
-🚀 Objetivo: evoluir construindo projetos cada vez mais completos
+<br>
 
-<!-- ========================= STACK ========================= -->
+<table>
+<tr>
+<td width="25%" align="center"><b>🎓 Formação</b><br><sub>Engenharia de Software</sub></td>
+<td width="25%" align="center"><b>⚙️ Foco</b><br><sub>Back-end & APIs</sub></td>
+<td width="25%" align="center"><b>🧠 Interesse</b><br><sub>IA & Automação</sub></td>
+<td width="25%" align="center"><b>📍 Base</b><br><sub>Salvador • BA</sub></td>
+</tr>
+</table>
 
-Stack & tools
+<img src="./assets/divider.svg" width="100%" />
+
+⚡ Stack principal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,react,firebase,git,github,figma,vscode&perline=11" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,firebase,html,css,react,git,github,vscode,figma&theme=dark&perline=11" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=fastapi&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Firestore-111827?style=flat-square&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/Power%20BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
-<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+
 
 </div>
 
-<!-- ========================= PROJECTS ========================= -->
+<img src="./assets/divider.svg" width="100%" />
 
-Selected projects
+🚀 Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Assistente IFF
+🏥 Assistente IFF
 
-IA para suporte e rotinas hospitalares
+IA aplicada ao ambiente hospitalar
 
-Assistente desenvolvido para apoiar usuários em processos, navegação e rotinas de sistemas hospitalares.
+Assistente criado para apoiar usuários em rotinas, navegação e suporte dentro de sistemas hospitalares.
 
-AI Node.js Firebase Hospital Tech
+Node.js IA Firebase Hospital Tech
 
 </td>
 <td width="50%" valign="top">
 
-Aurora IA
+🌌 Aurora IA
 
-Assistente pessoal com inteligência artificial
+Assistente pessoal com IA
 
-Projeto com autenticação, histórico de conversas, interface de chat e integração com modelos de IA.
+Chat com autenticação, histórico de conversas, interface própria e integração com modelos generativos.
 
-JavaScript Node.js Express Firebase AI
+JavaScript Node.js Express Firebase
 
 </td>
 </tr>
@@ -87,22 +76,22 @@ JavaScript Node.js Express Firebase AI
 <tr>
 <td width="50%" valign="top">
 
-GR Study
+📚 GR Study
 
-Plataforma inteligente de estudos
+Plataforma de estudos inteligente
 
-Sistema com questões, ranking, salas, histórico, gamificação e recursos de IA para aprendizagem.
+Questões, salas, ranking, gamificação, histórico de desempenho e recursos com inteligência artificial.
 
-JavaScript Firebase Education AI
+JavaScript Firebase EdTech IA
 
 </td>
 <td width="50%" valign="top">
 
-GR Estoque
+📦 GR Estoque
 
-Gestão de estoque hospitalar
+Sistema de gestão hospitalar
 
-Controle de entrada, saída, histórico, usuários, unidades e permissões para uso interno.
+Controle de estoque, movimentações, usuários, unidades, permissões e histórico operacional.
 
 JavaScript Firebase Dashboard Systems
 
@@ -112,71 +101,65 @@ JavaScript Firebase Dashboard Systems
 <tr>
 <td width="50%" valign="top">
 
-Nexura Agência
+💼 Nexura
 
-Soluções digitais e sistemas sob medida
+Soluções digitais sob medida
 
-Projeto voltado para desenvolvimento web, sistemas, dashboards, automações e soluções digitais.
+Desenvolvimento de sistemas, landing pages, dashboards, automações e produtos digitais.
 
-Web Systems UI/UX Automation
+Web UI/UX Systems Automation
 
 </td>
 <td width="50%" valign="top">
 
-Atlas Totem
+🌍 Atlas Totem
 
-Mídia digital e publicidade OOH
+Tecnologia para mídia OOH
 
-Projeto de totens digitais para exibição de campanhas, presença de marca e mídia em múltiplos pontos.
+Projeto focado em totens digitais, publicidade, presença de marca e distribuição de conteúdo em múltiplos pontos.
 
-Digital Signage OOH Business Technology
+OOH Digital Signage Business Tech
 
 </td>
 </tr>
 </table>
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+<img src="./assets/divider.svg" width="100%" />
 
-What I'm building now
+🧩 Atualmente
 
-const currentFocus = {
-  backend: ["JavaScript", "Node.js", "Express", "REST APIs"],
-  learning: ["Architecture", "Databases", "Authentication", "Deploy"],
-  building: ["Systems", "Automations", "AI integrations"],
-  mindset: "learn → build → test → improve"
-};
+const gabriel = {
+  studying: ["Node.js", "APIs", "Databases", "Software Architecture"],
+  building: ["Back-end systems", "AI integrations", "Automations"],
+  improving: ["Code quality", "Git", "Deploy", "Scalability"],
+  goal: "build better software every project"
+}
 
-<!-- ========================= STATS ========================= -->
+<img src="./assets/divider.svg" width="100%" />
 
-GitHub
+📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=euggabriell&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euggabriell&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=euggabriell&show_icons=true&hide_border=true&bg_color=07111F&title_color=38BDF8&icon_color=3B82F6&text_color=CBD5E1&ring_color=2563EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euggabriell&layout=compact&hide_border=true&bg_color=07111F&title_color=38BDF8&text_color=CBD5E1" />
 
-<br/>
+<br><br>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euggabriell&theme=tokyonight" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=euggabriell&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=euggabriell&bg_color=07111F&color=CBD5E1&line=2563EB&point=38BDF8&area=true&hide_border=true" />
 
 </div>
 
-<!-- ========================= FOOTER ========================= -->
+<img src="./assets/divider.svg" width="100%" />
 
 <div align="center">
 
-Build. Learn. Improve. Repeat.
+idea → code → system → impact
 
-<img src="https://komarev.com/ghpvc/?username=euggabriell&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
+<sub>Construindo, aprendendo e evoluindo através de projetos reais.</sub>
 
-<br/><br/>
+<br><br>
 
-<sub>Transformando ideias em sistemas que realmente funcionam.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,45:0F172A,100:2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=euggabriell&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
